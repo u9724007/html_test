@@ -1,0 +1,28 @@
+@charset "utf-8";
+/* CSS Document */
+		img{
+			border-radius: 50%;
+			width: 200px;
+		}
+		.top{
+			border-width: 1px;
+			border-color: gray;
+			border-style: inset;
+			border-radius: 8px;
+			width: 500px;
+			padding: 16px;
+			margin-bottom: 8px;
+			background-image: url("photo/white_00007.jpg");
+			
+		}
+		.kyoumi{
+			width: 500px;
+			padding: 16px;
+			margin-bottom: 8px;
+			background-image: url("photo/cloth_00042.jpg");
+		}
+		body{
+			text-align: center;
+			section-align: center;
+		}
+
